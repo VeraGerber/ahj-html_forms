@@ -1,4 +1,4 @@
-![Статус сборки](https://github.com/VeraGerber/ahj-forms_html/actions/workflows/main.yml/badge.svg)
+![Build status](https://github.com/VeraGerber/ahj-forms_html/actions/workflows/main.yml/badge.svg)
 
 ### [GitHub Pages](https://veragerber.github.io/ahj-html_forms/)
 
@@ -6,3 +6,4 @@
 
 ## Работа с HTML-формами
 ## AHJ_forms
+
